@@ -25,6 +25,7 @@ The process flow is designed to provide a clear understanding of:
 ## 🔄 Process Flow
 
 **Contact Generated → Lead Created → Converted to Opportunity → SOF Created in SAP → SOF Linked Back to CRM → Sales Order Created → Closed Won**
+<img width="1544" height="826" alt="image" src="https://github.com/user-attachments/assets/ad10acb5-1d1e-48fe-a2bb-43f7bd0fac8a" />
 
 The flow also includes:
 
